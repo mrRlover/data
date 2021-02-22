@@ -1,0 +1,23 @@
+Sector,ROE,Share,Status
+Technology,14.2,10,Local
+Technology,19,90,Multinational
+Other consumer,16.5,77,Multinational
+Other consumer,20.5,23,Local
+Industrial,13,70,Multinational
+Industrial,18,30,Local
+Cyclical consumer,12,77,Multinational
+Cyclical consumer,21,23,Local
+Utilities,6,88,Local
+Utilities,11,12,Multinational
+All sectors,10,50,Local
+All sectors,10.2,50,Multinational
+Financial,6,27,Multinational
+Financial,10.5,73,Local
+Diversified,4.9,21,Local
+Diversified,5,79,Multinational
+Basic materials,4,82,Multinational
+Basic materials,9,18,Local
+Media & communications,3,76,Multinational
+Media & communications,14,24,Local
+Energy,-1,40,Local
+Energy,1,60,Multinational
