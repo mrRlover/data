@@ -1,7 +1,7 @@
-point__xAxis,point__yAxis,point__x,point__y,text,x
-0,0,27.98,255,Arbois,
-0,0,45.5,611,Montrond,
-0,0,63,651,Mont-sur-Monnet,
-0,0,84,789,Bonlieu,-10
-0,0,129.5,382,Chassal,
-0,0,159,443,Saint-Claude,
+point__xAxis,point__yAxis,point__x,point__y,text
+0,0,27.98,255,Arbois
+0,0,45.5,611,Montrond
+0,0,63,651,Mont-sur-Monnet
+0,0,84,789,Bonlieu
+0,0,129.5,382,Chassal
+0,0,159,443,Saint-Claude
